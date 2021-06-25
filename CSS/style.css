@@ -4,3 +4,8 @@ body {
     background-size: cover;
     background-attachment: scroll;
 }
+
+.isflex{
+    display: flex;
+    flex-direction: column;
+}
