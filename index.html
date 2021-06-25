@@ -5,25 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TanukiSite</title>
+    <link rel="stylesheet" href="/CSS/style.css">
+    <script src="/Scripts/main.js"></script>
 </head>
-<style>
-body {
-    background-image:url('Images/tanuki.jpg');
-    background-size: cover;
-    background-attachment: scroll;
-}
-</style>
+    <body>
+        <button onclick="randTankui()"><h1>Tanuki</h1></button>
+    </body>
 </html>
 
-<script>
-    window.onload = function get_body() {
-
-        body = document.getElementsByTagName('body')[0];
-    }
-
-    function func(){
-            body.style.backgroundImage = '';
-    }   
-</script>
-
-<button onclick="func"></button>
