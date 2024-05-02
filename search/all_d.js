@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['name_0',['name',['../class_audio_management_1_1_sound.html#a791e96ed811ee39cb0e2c1239bf74042',1,'AudioManagement.Sound.name'],['../class_audio_management_1_1_music.html#a5fe2dde463a8fb77d11c128bb47ccf1f',1,'AudioManagement.Music.name'],['../class_multi_object_pool_1_1_object_pool.html#ad3629ee543e213fb1682c24df515d3ac',1,'MultiObjectPool.ObjectPool.name']]],
+  ['nameinput_1',['nameInput',['../class_map_editor.html#ad9d0535e435a749bcae5920775edd526',1,'MapEditor']]],
+  ['neighbourslist_2',['neighboursList',['../class_map_editor.html#a3fb9543c553bf8b8f77008c603cfe00c',1,'MapEditor']]],
+  ['networkconnection_3',['NetworkConnection',['../class_network_connection.html',1,'']]],
+  ['networkconnection_2ecs_4',['NetworkConnection.cs',['../_network_connection_8cs.html',1,'']]],
+  ['networkid_5',['networkID',['../class_network_connection.html#a2d6b304c4eb53c51f7d45006e67006f8',1,'NetworkConnection']]],
+  ['networkmanagement_6',['NetworkManagement',['../class_network_management.html',1,'']]],
+  ['networkmanagement_2ecs_7',['NetworkManagement.cs',['../_network_management_8cs.html',1,'']]],
+  ['networkplayer_8',['NetworkPlayer',['../class_network_player.html',1,'']]],
+  ['networkplayer_2ecs_9',['NetworkPlayer.cs',['../_network_player_8cs.html',1,'']]],
+  ['newhostsetup_10',['NewHostSetup',['../class_play_options_management.html#adaa7b5e104fd3e1dd704c669c265d3e4',1,'PlayOptionsManagement']]],
+  ['normal_11',['Normal',['../struct_play_options_management_1_1_play_options.html#ae77f457f577232032a7880c948975f9ea960b44c579bc2f6818d2daaf9e4c16f0',1,'PlayOptionsManagement::PlayOptions']]],
+  ['normalimage_12',['normalImage',['../class_play_options_management.html#af41e0fa4d8ec09100f2d3d8b4c872136',1,'PlayOptionsManagement']]],
+  ['north_5famerica_13',['North_America',['../class_territory.html#adc85c881c1433490545059e8b3ebff23ae7c41906776caccb62dda345ba194dc7',1,'Territory']]],
+  ['notifyclient_14',['NotifyClient',['../class_network_player.html#a827530296f328827e5584cd7d4237781',1,'NetworkPlayer']]],
+  ['notifyhostoflostconnection_15',['NotifyHostOfLostConnection',['../class_play_options_management.html#a00570b995b7e69a0deba6ac1118cc0e7',1,'PlayOptionsManagement']]],
+  ['notifyhostofnewconnection_16',['NotifyHostOfNewConnection',['../class_play_options_management.html#a11187f79f2e777412cad177bd4f091b7',1,'PlayOptionsManagement']]],
+  ['numberofaiplayers_17',['numberOfAIPlayers',['../class_play_screen_network_data_communicator.html#aa5ff2b3a42d1f413818ace86ee6a78d0',1,'PlayScreenNetworkDataCommunicator.numberOfAIPlayers'],['../struct_play_options_management_1_1_play_options.html#ad3a795c274c7c0d3057bbe1824c8a84f',1,'PlayOptionsManagement.PlayOptions.numberOfAIPlayers']]],
+  ['numberofnetworkplayers_18',['numberOfNetworkPlayers',['../struct_play_options_management_1_1_play_options.html#a23a4f19017af8e99adf07dd8642bfce7',1,'PlayOptionsManagement::PlayOptions']]],
+  ['numberofplayers_19',['numberOfPlayers',['../class_play_screen_network_data_communicator.html#aa8362a6f079aef48576f764517887fc7',1,'PlayScreenNetworkDataCommunicator']]],
+  ['numberoftroopsforset_20',['NumberOfTroopsForSet',['../class_hand.html#aa3d6eeaab48add260973d194a25ab06e',1,'Hand']]]
+];
