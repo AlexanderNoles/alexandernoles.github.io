@@ -9,7 +9,7 @@
 .closed
 {
     background-color: yellow;
-    display: block;
+    display: none;
     width: 100%;
     height: 0px;
 }
