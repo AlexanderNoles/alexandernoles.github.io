@@ -1,7 +1,3 @@
-# Alexander Noles
+# Portfolio
 
-[Cube Loop (LD47)](https://alexandernoles.github.io/cube-loop/)
-
-
-
-**About**
+Portfolio used to demonstrate examples of my work/abilities. Hosted using github's free website hosting.
