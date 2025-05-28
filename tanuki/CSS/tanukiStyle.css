@@ -1,0 +1,11 @@
+
+body {
+    background-image:url('/Images/tanuki.jpg');
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.isflex{
+    display: flex;
+    flex-direction: column;
+}
